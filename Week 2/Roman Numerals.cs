@@ -22,6 +22,8 @@ public class Roman_Numerals
     {
         if (roman == "V")
             return 5;
+        if (roman == "X")
+            return 10;
         return 1;
     }
 }
