@@ -20,8 +20,19 @@ public class Roman_Numerals
         Assert.AreEqual(expected, RomanToNumber(roman));
     }
 
-    private int RomanToNumber(string roman)
+    public int RomanToNumber(string roman)
     {
+        var romanDictionary = new Dictionary<char, int>()
+        {
+            {'I', 1},
+            {'V', 5},
+            {'X', 10},
+            {'L', 50},
+            {'C', 100},
+            {'D', 500},
+            {'M', 1000}
+
+        };
         if (roman == "V")
             return 5;
         if (roman == "X")
