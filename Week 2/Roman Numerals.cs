@@ -12,6 +12,8 @@ public class Roman_Numerals
     [TestCase(1, "I")]
     [TestCase(5,"V")]
     [TestCase(10,"X")]
+    
+    [TestCase(50,"L")]
 
     public void TestRomanNumerals(int expected, string roman)
     {

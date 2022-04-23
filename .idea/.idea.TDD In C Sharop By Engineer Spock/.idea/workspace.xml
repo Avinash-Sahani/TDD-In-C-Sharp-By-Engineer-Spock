@@ -4,15 +4,7 @@
     <projectFile>TDD In C Sharop By Engineer Spock/TDD In C Sharop By Engineer Spock.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="Final Test Cases Added">
-      <change afterPath="$PROJECT_DIR$/Week 2/Roman Numerals.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/ref/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/ref/Week 2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/refint/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/refint/Week 2.dll" afterDir="false" />
-    </list>
+    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="minimal code to pass test case" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,10 +17,15 @@
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -80,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650749157029</updated>
       <workItem from="1650749167781" duration="291000" />
-      <workItem from="1650749742124" duration="1615000" />
+      <workItem from="1650749742124" duration="1954000" />
     </task>
     <task id="LOCAL-00001" summary="Intital Project Decalration">
       <created>1650749233814</created>
@@ -173,7 +171,56 @@
       <option name="project" value="LOCAL" />
       <updated>1650751066817</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Inital Test Case Faking Approach">
+      <created>1650751443778</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1650751443778</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding Test Cases">
+      <created>1650751491072</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1650751491073</updated>
+    </task>
+    <task id="LOCAL-00016" summary="External Files">
+      <created>1650751514839</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1650751514839</updated>
+    </task>
+    <task id="LOCAL-00017" summary="minima code to pass test cases">
+      <created>1650751566630</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1650751566630</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adding test case to fail logic">
+      <created>1650751638423</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1650751638423</updated>
+    </task>
+    <task id="LOCAL-00019" summary="test case correction">
+      <created>1650751656253</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1650751656253</updated>
+    </task>
+    <task id="LOCAL-00020" summary="minimal code to pass test case">
+      <created>1650751698654</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1650751698654</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +241,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Intital Project Decalration" />
     <MESSAGE value="Dependcies Fix" />
@@ -208,6 +256,13 @@
     <MESSAGE value="Adding More Test Cases" />
     <MESSAGE value="Final Code Implementaion" />
     <MESSAGE value="Final Test Cases Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Test Cases Added" />
+    <MESSAGE value="Inital Test Case Faking Approach" />
+    <MESSAGE value="Adding Test Cases" />
+    <MESSAGE value="External Files" />
+    <MESSAGE value="minima code to pass test cases" />
+    <MESSAGE value="adding test case to fail logic" />
+    <MESSAGE value="test case correction" />
+    <MESSAGE value="minimal code to pass test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimal code to pass test case" />
   </component>
 </project>
