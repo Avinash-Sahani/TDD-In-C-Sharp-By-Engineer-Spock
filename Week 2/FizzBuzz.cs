@@ -24,7 +24,10 @@ public class FizzBuzzTests
     
     private string FizzBuzz(int number)
     {
+        if(number==3)
         return "Fizz";
-        
+
+        return "Buzz";
+
     }
 }
