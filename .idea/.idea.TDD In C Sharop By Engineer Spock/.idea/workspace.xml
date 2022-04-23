@@ -4,9 +4,15 @@
     <projectFile>TDD In C Sharop By Engineer Spock/TDD In C Sharop By Engineer Spock.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="adding more test cases">
+    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="Improving Code to pass test cases">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD In C Sharop By Engineer Spock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD In C Sharop By Engineer Spock/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week 2/Roman Numerals.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Roman Numerals.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/ref/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/ref/Week 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/refint/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/refint/Week 2.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +34,14 @@
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -87,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650749157029</updated>
       <workItem from="1650749167781" duration="291000" />
-      <workItem from="1650749742124" duration="3070000" />
+      <workItem from="1650749742124" duration="3668000" />
     </task>
     <task id="LOCAL-00001" summary="Intital Project Decalration">
       <created>1650749233814</created>
@@ -278,7 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650752491111</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="improving code to clear test cases">
+      <created>1650752950832</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1650752950832</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Improving Code to pass test cases">
+      <created>1650753197090</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1650753197090</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,8 +324,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Dependcies Fix" />
-    <MESSAGE value="fix" />
     <MESSAGE value="Intial Test Case ( Faking Approach)" />
     <MESSAGE value="Changing Method Structure" />
     <MESSAGE value="project files" />
@@ -326,6 +347,8 @@
     <MESSAGE value="adding more test case to check logic accuracy" />
     <MESSAGE value="improving code appraoch to handle other cases" />
     <MESSAGE value="adding more test cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding more test cases" />
+    <MESSAGE value="improving code to clear test cases" />
+    <MESSAGE value="Improving Code to pass test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improving Code to pass test cases" />
   </component>
 </project>

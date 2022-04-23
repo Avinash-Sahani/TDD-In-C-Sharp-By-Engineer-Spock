@@ -18,6 +18,10 @@ public class Roman_Numerals
     [TestCase(1000,"M")]
     [TestCase(2,"II")]
     [TestCase(4,"IV")]
+    [TestCase(15,"XV")]
+    [TestCase(14,"XIV")]
+    [TestCase(90,"XC")]
+
 
 
     
@@ -40,11 +44,11 @@ public class Roman_Numerals
             {'M', 1000}
 
         };
-        int finalNumber = 0;
+        var finalNumber = 0;
 
         for (var i = 0; i < roman.Length; i++)
         {
-            if (i + 1 > roman.Length && GetValue(i) < GetValue(i + 1))
+            if (CanSubtract(i))
             {
                 finalNumber -= GetValue(i);
             }
@@ -54,6 +58,9 @@ public class Roman_Numerals
 
         return finalNumber;
 
+        bool CanSubtract(int index) => IsComparable(index) && GetValue(index) < GetValue(index + 1);
+
+        bool IsComparable(int index) => index + 1 < roman.Length;
         
         int GetValue(int index) => romanDictionary[roman[index]];
     }
