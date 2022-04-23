@@ -14,6 +14,8 @@ public class FizzBuzzTests
 {
     [TestCase("Fizz",3)]
     [TestCase("Buzz",5)]
+    [TestCase("Fizz",6)]
+    [TestCase("Buzz",10)]
 
 
     
@@ -25,8 +27,7 @@ public class FizzBuzzTests
     private string FizzBuzz(int number)
     {
         if(number==3)
-        return "Fizz";
-
+            return "Fizz";
         return "Buzz";
 
     }
