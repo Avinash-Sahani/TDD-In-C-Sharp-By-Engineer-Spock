@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD In C Sharop By Engineer Spock", "TDD In C Sharop By Engineer Spock\TDD In C Sharop By Engineer Spock.csproj", "{BFF95362-9620-4285-B684-ED09BD306D83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 2", "Week 2\Week 2.csproj", "{BFF95362-9620-4285-B684-ED09BD306D83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\TDD In C Sharop By Engineer Spock\\TDD In C Sharop By Engineer Spock.csproj",
-      "projectName": "TDD In C Sharop By Engineer Spock",
-      "projectPath": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\TDD In C Sharop By Engineer Spock\\TDD In C Sharop By Engineer Spock.csproj",
+      "projectUniqueName": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\Week 2\\Week 2.csproj",
+      "projectName": "Week 2",
+      "projectPath": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\Week 2\\Week 2.csproj",
       "packagesPath": "C:\\Users\\avinash.sahani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\TDD In C Sharop By Engineer Spock\\obj\\",
+      "outputPath": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\Week 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\avinash.sahani\\AppData\\Roaming\\NuGet\\NuGet.Config",
