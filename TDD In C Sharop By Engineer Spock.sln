@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD In C Sharop By Engineer Spock", "TDD In C Sharop By Engineer Spock\TDD In C Sharop By Engineer Spock.csproj", "{BFF95362-9620-4285-B684-ED09BD306D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFF95362-9620-4285-B684-ED09BD306D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF95362-9620-4285-B684-ED09BD306D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF95362-9620-4285-B684-ED09BD306D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF95362-9620-4285-B684-ED09BD306D83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
