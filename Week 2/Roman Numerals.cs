@@ -16,7 +16,7 @@ public class Roman_Numerals
     [TestCase(100,"C")]
     [TestCase(500,"D")]
     [TestCase(1000,"M")]
-    [TestCase(4,"IV")]
+    [TestCase(2,"II")]
     
 
     
@@ -39,6 +39,10 @@ public class Roman_Numerals
             {'M', 1000}
 
         };
-        return romanDictionary[roman[0]];
+        int finalNumber = 0;
+        for (var i = 0; i < roman.Length; i++)
+            finalNumber += romanDictionary[roman[i]];
+        return finalNumber;
+
     }
 }
