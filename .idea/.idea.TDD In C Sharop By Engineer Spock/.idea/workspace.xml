@@ -4,7 +4,8 @@
     <projectFile>TDD In C Sharop By Engineer Spock/TDD In C Sharop By Engineer Spock.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="adding dicionary to tackle cases">
+    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="adding more test cases">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD In C Sharop By Engineer Spock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD In C Sharop By Engineer Spock/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week 2/Roman Numerals.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Roman Numerals.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +26,14 @@
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -83,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650749157029</updated>
       <workItem from="1650749167781" duration="291000" />
-      <workItem from="1650749742124" duration="2272000" />
+      <workItem from="1650749742124" duration="3070000" />
     </task>
     <task id="LOCAL-00001" summary="Intital Project Decalration">
       <created>1650749233814</created>
@@ -246,7 +250,35 @@
       <option name="project" value="LOCAL" />
       <updated>1650751963382</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="passing all base test cases">
+      <created>1650752058550</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1650752058550</updated>
+    </task>
+    <task id="LOCAL-00025" summary="adding more test case to check logic accuracy">
+      <created>1650752185295</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1650752185295</updated>
+    </task>
+    <task id="LOCAL-00026" summary="improving code appraoch to handle other cases">
+      <created>1650752475244</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1650752475244</updated>
+    </task>
+    <task id="LOCAL-00027" summary="adding more test cases">
+      <created>1650752491111</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1650752491111</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +301,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Intital Project Decalration" />
     <MESSAGE value="Dependcies Fix" />
     <MESSAGE value="fix" />
     <MESSAGE value="Intial Test Case ( Faking Approach)" />
@@ -291,6 +322,10 @@
     <MESSAGE value="adding more test case&#10;(using now triangulation approach)" />
     <MESSAGE value="minimal code to pass test case" />
     <MESSAGE value="adding dicionary to tackle cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding dicionary to tackle cases" />
+    <MESSAGE value="passing all base test cases" />
+    <MESSAGE value="adding more test case to check logic accuracy" />
+    <MESSAGE value="improving code appraoch to handle other cases" />
+    <MESSAGE value="adding more test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding more test cases" />
   </component>
 </project>

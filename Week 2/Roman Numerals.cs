@@ -41,9 +41,16 @@ public class Roman_Numerals
 
         };
         int finalNumber = 0;
-        for (var i = 0; i < roman.Length; i++)
-            finalNumber += romanDictionary[roman[i]];
+
+        SumTheIndividuals();
+       
         return finalNumber;
 
+        
+        void SumTheIndividuals()
+        {
+            finalNumber += roman.Sum(t => romanDictionary[t]);
+        }
     }
+
 }
