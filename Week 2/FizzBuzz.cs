@@ -16,9 +16,11 @@ public class FizzBuzzTests
     [TestCase("Buzz",5)]
     [TestCase("Fizz",6)]
     [TestCase("Buzz",10)]
+    [TestCase("Fizz Buzz",15)]
+    [TestCase("Buzz",20)]
+    [TestCase("Fizz",18)]
 
 
-    
     public void TestFizzBuzz(string expected,int number)
     {
         Assert.AreEqual(expected,FizzBuzz(number));

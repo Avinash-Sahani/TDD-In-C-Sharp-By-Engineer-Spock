@@ -4,9 +4,7 @@
     <projectFile>TDD In C Sharop By Engineer Spock/TDD In C Sharop By Engineer Spock.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="project files">
-      <change beforePath="$PROJECT_DIR$/Week 2/FizzBuzz.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/FizzBuzz.cs" afterDir="false" />
-    </list>
+    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="Writing Minimal Code To Pass Test Cases" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +14,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650749157029</updated>
       <workItem from="1650749167781" duration="291000" />
-      <workItem from="1650749742124" duration="700000" />
+      <workItem from="1650749742124" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="Intital Project Decalration">
       <created>1650749233814</created>
@@ -112,7 +113,35 @@
       <option name="project" value="LOCAL" />
       <updated>1650750417782</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding More test case to check and improve approach&#10;(Trianguation Appraoach)">
+      <created>1650750564010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650750564010</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Writing Mininaml Code to Pass Test Case">
+      <created>1650750602567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650750602567</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding More Test Case To See error in implemetaion">
+      <created>1650750706293</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650750706293</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Writing Minimal Code To Pass Test Cases">
+      <created>1650750830494</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650750830494</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +169,10 @@
     <MESSAGE value="Intial Test Case ( Faking Approach)" />
     <MESSAGE value="Changing Method Structure" />
     <MESSAGE value="project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="project files" />
+    <MESSAGE value="Adding More test case to check and improve approach&#10;(Trianguation Appraoach)" />
+    <MESSAGE value="Writing Mininaml Code to Pass Test Case" />
+    <MESSAGE value="Adding More Test Case To See error in implemetaion" />
+    <MESSAGE value="Writing Minimal Code To Pass Test Cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Writing Minimal Code To Pass Test Cases" />
   </component>
 </project>
