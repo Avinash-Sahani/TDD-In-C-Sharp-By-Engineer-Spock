@@ -4,7 +4,9 @@
     <projectFile>TDD In C Sharop By Engineer Spock/TDD In C Sharop By Engineer Spock.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="Intital Project Decalration" />
+    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/Week 2/FizzBuzz.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/FizzBuzz.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +15,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TDD In C Sharop By Engineer Spock/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28DRQsQVDEat3jDU8PDx1bXWWJv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -35,7 +36,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.TDD In C Sharop By Engineer Spock">
     <configuration name="TDD In C Sharop By Engineer Spock" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -64,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650749157029</updated>
       <workItem from="1650749167781" duration="291000" />
+      <workItem from="1650749742124" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="Intital Project Decalration">
       <created>1650749233814</created>
@@ -72,14 +74,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650749233814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dependcies Fix">
+      <created>1650749976292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650749976292</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix">
+      <created>1650749989962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650749989962</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -95,6 +111,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Intital Project Decalration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intital Project Decalration" />
+    <MESSAGE value="Dependcies Fix" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
