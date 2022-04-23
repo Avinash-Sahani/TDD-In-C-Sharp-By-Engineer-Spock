@@ -18,6 +18,8 @@ public class Roman_Numerals
 
     private int RomanToNumber(string roman)
     {
+        if (roman == "V")
+            return 5;
         return 1;
     }
 }
