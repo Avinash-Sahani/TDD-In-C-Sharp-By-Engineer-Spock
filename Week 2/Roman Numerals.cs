@@ -10,6 +10,7 @@ namespace TDD_In_C_Sharop_By_Engineer_Spock;
 public class Roman_Numerals
 {
     [TestCase(1, "I")]
+    [TestCase(5,"V")]
     public void TestRomanNumerals(int expected, string roman)
     {
         Assert.AreEqual(expected, RomanToNumber(roman));
