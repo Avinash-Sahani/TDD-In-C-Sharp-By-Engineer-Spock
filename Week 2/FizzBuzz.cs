@@ -12,10 +12,11 @@ using NUnit.Framework;
 [TestFixture]
 public class FizzBuzzTests
 {
-    [Test]
-    public void TestFizzBuzz()
+    [TestCase("Fizz",3)]
+    
+    public void TestFizzBuzz(string expected,int numer)
     {
-        Assert.AreEqual("Fizz",FizzBuzz(3));
+        Assert.AreEqual(expected,FizzBuzz(numer));
     }
     
     private string FizzBuzz(int number)
