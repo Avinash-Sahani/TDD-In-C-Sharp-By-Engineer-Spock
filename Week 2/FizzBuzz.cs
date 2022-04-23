@@ -19,6 +19,10 @@ public class FizzBuzzTests
     [TestCase("Fizz Buzz",15)]
     [TestCase("Buzz",20)]
     [TestCase("Fizz",18)]
+    [TestCase("Fizz Buzz",45)]
+    [TestCase("Buzz",25)]
+    [TestCase("Fizz Buzz",30)]
+
 
 
     public void TestFizzBuzz(string expected,int number)
