@@ -12,8 +12,11 @@ public class Roman_Numerals
     [TestCase(1, "I")]
     [TestCase(5,"V")]
     [TestCase(10,"X")]
-    
     [TestCase(50,"L")]
+    [TestCase(100,"C")]
+    [TestCase(500,"D")]
+    [TestCase(1000,"M")]
+    
 
     public void TestRomanNumerals(int expected, string roman)
     {
@@ -33,12 +36,6 @@ public class Roman_Numerals
             {'M', 1000}
 
         };
-        if (roman == "V")
-            return 5;
-        if (roman == "X")
-            return 10;
-        if (roman == "L")
-            return 50;
-        return 1;
+        return romanDictionary[roman[0]];
     }
 }
