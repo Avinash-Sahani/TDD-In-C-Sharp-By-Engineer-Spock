@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\Week 2\\Week 2.csproj": {}
+    "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-In-C#-By-Engineer-Spock\\Week 2\\Week 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\Week 2\\Week 2.csproj": {
+    "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-In-C#-By-Engineer-Spock\\Week 2\\Week 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\Week 2\\Week 2.csproj",
+        "projectUniqueName": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-In-C#-By-Engineer-Spock\\Week 2\\Week 2.csproj",
         "projectName": "Week 2",
-        "projectPath": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\Week 2\\Week 2.csproj",
+        "projectPath": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-In-C#-By-Engineer-Spock\\Week 2\\Week 2.csproj",
         "packagesPath": "C:\\Users\\avinash.sahani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-IN-C#-BY-EngineerSpock\\TDD In C Sharop By Engineer Spock\\Week 2\\obj\\",
+        "outputPath": "C:\\Users\\avinash.sahani\\RiderProjects\\TDD-Course-Udemy\\TDD-In-C#-By-Engineer-Spock\\Week 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avinash.sahani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
