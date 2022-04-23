@@ -42,15 +42,21 @@ public class Roman_Numerals
         };
         int finalNumber = 0;
 
-        SumTheIndividuals();
-       
+        for (var i = 0; i < roman.Length; i++)
+        {
+            if (i + 1 > roman.Length && GetValue(i) < GetValue(i + 1))
+            {
+                finalNumber -= GetValue(i);
+            }
+            else
+                finalNumber += GetValue(i);
+        }
+
         return finalNumber;
 
         
-        void SumTheIndividuals()
-        {
-            finalNumber += roman.Sum(t => romanDictionary[t]);
-        }
+        int GetValue(int index) => romanDictionary[roman[index]];
     }
+
 
 }
