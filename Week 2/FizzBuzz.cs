@@ -13,10 +13,13 @@ using NUnit.Framework;
 public class FizzBuzzTests
 {
     [TestCase("Fizz",3)]
+    [TestCase("Buzz",5)]
+
+
     
-    public void TestFizzBuzz(string expected,int numer)
+    public void TestFizzBuzz(string expected,int number)
     {
-        Assert.AreEqual(expected,FizzBuzz(numer));
+        Assert.AreEqual(expected,FizzBuzz(number));
     }
     
     private string FizzBuzz(int number)
