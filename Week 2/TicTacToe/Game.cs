@@ -2,9 +2,16 @@
 
 public class Game
 {
-    public int MoveCounter { private set; get; } = 0;
+    public Game()
+    {
+        MoveCounter = 0;
+        for (var i = 0; i < Board.Length; i++)
+            Board[i] = State.Unset;
+        
+    }
+    public int MoveCounter { private set; get; } 
     public State[] Board { set; get; } = new State[9];
 
 
-    public State GetState(int index)=> Board[index-1];
+    public State GetState(int index)=> Board[index+1];
 }
