@@ -4,15 +4,9 @@
     <projectFile>TDD In C Sharop By Engineer Spock/TDD In C Sharop By Engineer Spock.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="Improving Code to pass test cases">
+    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="Adding Final Test Cases&#10;and Code Refactoring">
+      <change afterPath="$PROJECT_DIR$/Week 2/TicTacToe/TicTacToe.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD In C Sharop By Engineer Spock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD In C Sharop By Engineer Spock/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Roman Numerals.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Roman Numerals.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/ref/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/ref/Week 2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/refint/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/refint/Week 2.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,29 +15,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/FizzBuzz.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/avinash.sahani/RiderProjects/TDD-Course-Udemy/TDD-In-C#-By-Engineer-Spock/Week 2/Roman Numerals.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -96,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1650749157029</updated>
       <workItem from="1650749167781" duration="291000" />
-      <workItem from="1650749742124" duration="3668000" />
+      <workItem from="1650749742124" duration="4399000" />
+      <workItem from="1650807062404" duration="1274000" />
     </task>
     <task id="LOCAL-00001" summary="Intital Project Decalration">
       <created>1650749233814</created>
@@ -301,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650753197090</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Adding Final Test Cases&#10;and Code Refactoring">
+      <created>1650753524366</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1650753524366</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +303,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Intial Test Case ( Faking Approach)" />
     <MESSAGE value="Changing Method Structure" />
     <MESSAGE value="project files" />
     <MESSAGE value="Adding More test case to check and improve approach&#10;(Trianguation Appraoach)" />
@@ -349,6 +327,7 @@
     <MESSAGE value="adding more test cases" />
     <MESSAGE value="improving code to clear test cases" />
     <MESSAGE value="Improving Code to pass test cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improving Code to pass test cases" />
+    <MESSAGE value="Adding Final Test Cases&#10;and Code Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Final Test Cases&#10;and Code Refactoring" />
   </component>
 </project>
