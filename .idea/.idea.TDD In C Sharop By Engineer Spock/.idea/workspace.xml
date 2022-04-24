@@ -4,9 +4,18 @@
     <projectFile>TDD In C Sharop By Engineer Spock/TDD In C Sharop By Engineer Spock.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="Adding Final Test Cases&#10;and Code Refactoring">
-      <change afterPath="$PROJECT_DIR$/Week 2/TicTacToe/TicTacToe.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD In C Sharop By Engineer Spock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD In C Sharop By Engineer Spock/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b71962d7-407c-47a1-8cf6-947e89bef24a" name="Changes" comment="Initial Class Declaration">
+      <change afterPath="$PROJECT_DIR$/Week 2/TicTacToe/State.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD In C Sharop By Engineer Spock.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TDD In C Sharop By Engineer Spock.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/TicTacToe/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/TicTacToe/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/TicTacToe/TicTacToe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/TicTacToe/TicTacToe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/bin/Debug/net6.0/Week 2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/Week 2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/ref/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/ref/Week 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/refint/Week 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/obj/Debug/net6.0/refint/Week 2.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +77,7 @@
       <updated>1650749157029</updated>
       <workItem from="1650749167781" duration="291000" />
       <workItem from="1650749742124" duration="4399000" />
-      <workItem from="1650807062404" duration="1274000" />
+      <workItem from="1650807062404" duration="1571000" />
     </task>
     <task id="LOCAL-00001" summary="Intital Project Decalration">
       <created>1650749233814</created>
@@ -280,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650753524366</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Initial Class Declaration">
+      <created>1650809325207</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1650809325207</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +319,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Changing Method Structure" />
     <MESSAGE value="project files" />
     <MESSAGE value="Adding More test case to check and improve approach&#10;(Trianguation Appraoach)" />
     <MESSAGE value="Writing Mininaml Code to Pass Test Case" />
@@ -328,6 +343,7 @@
     <MESSAGE value="improving code to clear test cases" />
     <MESSAGE value="Improving Code to pass test cases" />
     <MESSAGE value="Adding Final Test Cases&#10;and Code Refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Final Test Cases&#10;and Code Refactoring" />
+    <MESSAGE value="Initial Class Declaration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Class Declaration" />
   </component>
 </project>
