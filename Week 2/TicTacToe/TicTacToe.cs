@@ -35,11 +35,18 @@ public class TicTacToe
     [Test]
     public void MakingMoveOnAlreadySetBoardNode()
     {
-        Game game = new Game();
-        game.Move(1);
-        game.Move(1);
-        game.Move(1);
-        game.Move(1);
+     
+        Assert.Throws<InvalidOperationException>(
+            (() =>
+                {
+                    var game = new Game();
+                    game.Move(1);
+                    game.Move(1);
+                } 
+                
+            )
+        );
+
 
     }
 
