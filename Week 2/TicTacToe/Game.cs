@@ -13,5 +13,11 @@ public class Game
     public State[] Board { set; get; } = new State[9];
 
 
-    public State GetState(int index)=> Board[index+1];
+    public State GetState(int index)
+    {
+        if (index < 1 || index > 9) throw new IndexOutOfRangeException();
+        
+        return Board[index-1];
+        
+    }
 }

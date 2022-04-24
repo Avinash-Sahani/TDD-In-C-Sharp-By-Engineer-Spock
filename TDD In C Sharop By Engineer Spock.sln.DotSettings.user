@@ -4,5 +4,7 @@
     &lt;TestId&gt;NUnit3x::BFF95362-9620-4285-B684-ED09BD306D83::net6.0::TDD_In_C_Sharop_By_Engineer_Spock.FizzBuzzTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::BFF95362-9620-4285-B684-ED09BD306D83::net6.0::TDD_In_C_Sharop_By_Engineer_Spock.Roman_Numerals&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::BFF95362-9620-4285-B684-ED09BD306D83::net6.0::TDD_In_C_Sharop_By_Engineer_Spock.TicTacToe.TicTacTore.IntializeGame&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BFF95362-9620-4285-B684-ED09BD306D83::net6.0::TDD_In_C_Sharop_By_Engineer_Spock.TicTacToe.TicTacTore&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BFF95362-9620-4285-B684-ED09BD306D83::net6.0::TDD_In_C_Sharop_By_Engineer_Spock.TicTacToe.TicTacToe&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
