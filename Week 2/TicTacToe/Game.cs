@@ -9,15 +9,33 @@ public class Game
             Board[i] = State.Unset;
         
     }
+
     public int MoveCounter { private set; get; } 
     public State[] Board { set; get; } = new State[9];
 
 
     public State GetState(int index)
+    { 
+        ThrowExceptionIfInvalidIndex(index);
+       return Board[index-1];
+    }
+        
+    
+
+    public void Move(int index)
     {
-        if (index < 1 || index > 9) throw new IndexOutOfRangeException();
+        ThrowExceptionIfInvalidIndex(index);
+        if (GetState(index) != State.Unset)
+            throw new InvalidOperationException();
+
+        Board[index - 1] = MoveCounter % 2 == 0 ? State.Cross : State.Zero;
+        MoveCounter++;
         
-        return Board[index-1];
-        
+    }
+
+    private static void ThrowExceptionIfInvalidIndex(int index)
+    {
+        if (index is < 1 or > 9)
+            throw new ArgumentOutOfRangeException();
     }
 }
