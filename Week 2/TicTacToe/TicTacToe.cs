@@ -11,6 +11,8 @@ public class TicTacToe
     {
         var game = new Game();
         Assert.AreEqual(0,game.MoveCounter);
+        Assert.AreEqual(State.Unset,game.GetState(1));
+
     }
 
     [Test]
